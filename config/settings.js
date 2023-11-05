@@ -8,10 +8,10 @@ module.exports = {
   },
   owner: {
     name: 'Owner Name',
-    number: '628xxx'
+    number: '94xxx'
   },
   api: {
-    url: 'https://daniapi.biz.id',
-    key: 'Your-API-Key'
+    url: 'https://daniapi.biz.id/api/artificial-intelligence/chatgpt-35?api_key=sk-wbviwreabuyeif89z&question=Hello,%20AI',
+    key: 'sk-wbviwreabuyeif89z'
   }
 };
